@@ -23,7 +23,6 @@ Please just work
 - [[Obstkiste/critical mass\|critical mass]]
 - [[Obstkiste/density\|density]]
 - [[Obstkiste/custom type for business\|custom type for business]]
-- [[Obstkiste/poison (post)\|poison (post)]]
 - [[Obstkiste/procrastination\|procrastination]]
 - [[Obstkiste/published notes\|published notes]]
 - [[Obstkiste/purposelessness\|purposelessness]]
@@ -32,6 +31,7 @@ Please just work
 - [[Obstkiste/the mortal hand\|the mortal hand]]
 - [[Obstkiste/After Type 2\|After Type 2]]
 - [[Obstkiste/test\|test]]
+- [[Obstkiste/poison\|poison]]
 - [[Periodic/templates/dg blog template\|dg blog template]]
 
 { .block-language-dataview}
