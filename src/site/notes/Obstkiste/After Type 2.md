@@ -8,9 +8,35 @@
 This is the blog/digital garden of [Jack Hagley](jackhagley.com)
 
 recently published:
+- [[Obstkiste/After Type 2\|After Type 2]]
+- [[Obstkiste/poison\|poison]]
+- [[Obstkiste/202506230928\|202506230928]]
+- [[Obstkiste/About After Type\|About After Type]]
+- [[Obstkiste/critical mass\|critical mass]]
+- [[Periodic/templates/dg blog template\|dg blog template]]
+- [[Obstkiste/ambiguity\|ambiguity]]
+- [[Obstkiste/coherence\|coherence]]
+- [[Obstkiste/density\|density]]
+- [[Obstkiste/Eventually\|Eventually]]
+- [[Obstkiste/art is a battery\|art is a battery]]
+- [[Obstkiste/container\|container]]
+- [[Obstkiste/202410011559\|202410011559]]
+- [[Obstkiste/2025-07-03-1056\|2025-07-03-1056]]
+- [[Obstkiste/custom type for business\|custom type for business]]
+- [[Obstkiste/procrastination\|procrastination]]
+- [[Obstkiste/purposelessness\|purposelessness]]
+- [[Obstkiste/religion of branding\|religion of branding]]
+- [[Obstkiste/202412131305\|202412131305]]
+- [[Obstkiste/202503201051\|202503201051]]
+- [[Obstkiste/202412290810\|202412290810]]
+- [[Obstkiste/202412120834\|202412120834]]
+- [[Obstkiste/strength as weakness\|strength as weakness]]
+- [[Obstkiste/202407260936\|202407260936]]
+- [[Obstkiste/published notes\|published notes]]
+- [[Obstkiste/the mortal hand\|the mortal hand]]
 
-<h3><span>After Type 2</span></h3><div class="flex-grid"><span></span><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/actually writing">actually writing</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/poison">poison</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/test">test</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/202506230928">202506230928</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/About After Type">About After Type</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/critical mass">critical mass</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Periodic/templates/dg blog template">dg blog template</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/ambiguity">ambiguity</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/coherence">coherence</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/density">density</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/Eventually">Eventually</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/art is a battery">art is a battery</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/container">container</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/202410011559">202410011559</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/2025-07-03-1056">2025-07-03-1056</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/custom type for business">custom type for business</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/procrastination">procrastination</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/purposelessness">purposelessness</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/religion of branding">religion of branding</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/202412131305">202412131305</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/202503201051">202503201051</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/202412290810">202412290810</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/202412120834">202412120834</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/strength as weakness">strength as weakness</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/202407260936">202407260936</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/published notes">published notes</a></div><div style="flex:1 1 calc(25% - 0.75rem);box-sizing:border-box;border:1px solid var(--background-modifier-border);padding:0.5rem;border-radius:0.5rem;"><a href="Obstkiste/the mortal hand">the mortal hand</a></div></div>
-
+{ .block-language-dataview}
+/pub
 
 
 
