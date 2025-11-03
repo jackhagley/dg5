@@ -2,7 +2,20 @@
 {"dg-publish":true,"permalink":"/obstkiste/after-type-2/","tags":["gardenEntry"]}
 ---
 
-Please just work 
+[[Obstkiste/About After Type\|About]]
+
+
+This is the blog/digital garden of [Jack Hagley](jackhagley.com)
+
+recently published:
+- [[Obstkiste/202407260936\|202407260936]]
+
+{ .block-language-dataview}
+
+
+---
+
+copyright 2025 Jack Hagley
 
 
 - [[Obstkiste/202407260936\|202407260936]]
@@ -14,6 +27,7 @@ Please just work
 - [[Obstkiste/202503201051\|202503201051]]
 - [[Obstkiste/202506230928\|202506230928]]
 - [[Obstkiste/About After Type\|About After Type]]
+- [[Obstkiste/After Type 2\|After Type 2]]
 - [[Obstkiste/Eventually\|Eventually]]
 - [[Obstkiste/actually writing\|actually writing]]
 - [[Obstkiste/ambiguity\|ambiguity]]
@@ -21,17 +35,30 @@ Please just work
 - [[Obstkiste/coherence\|coherence]]
 - [[Obstkiste/container\|container]]
 - [[Obstkiste/critical mass\|critical mass]]
-- [[Obstkiste/density\|density]]
 - [[Obstkiste/custom type for business\|custom type for business]]
+- [[Obstkiste/density\|density]]
+- [[Obstkiste/poison\|poison]]
 - [[Obstkiste/procrastination\|procrastination]]
 - [[Obstkiste/published notes\|published notes]]
 - [[Obstkiste/purposelessness\|purposelessness]]
 - [[Obstkiste/religion of branding\|religion of branding]]
 - [[Obstkiste/strength as weakness\|strength as weakness]]
-- [[Obstkiste/the mortal hand\|the mortal hand]]
-- [[Obstkiste/After Type 2\|After Type 2]]
 - [[Obstkiste/test\|test]]
-- [[Obstkiste/poison\|poison]]
+- [[Obstkiste/the mortal hand\|the mortal hand]]
 - [[Periodic/templates/dg blog template\|dg blog template]]
 
 { .block-language-dataview}
+
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+copyright 2025 Jack Hagley
+
+
+
+</div></div>
