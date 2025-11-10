@@ -8,17 +8,18 @@
 This is the blog/digital garden of [Jack Hagley](jackhagley.com)
 
 recently published:
+- [[Obstkiste/font hinting in pixel fonts\|font hinting in pixel fonts]]
+- [[Obstkiste/energy\|energy]]
+- [[Obstkiste/About After Type\|About After Type]]
+- [[Obstkiste/container\|container]]
 - [[Obstkiste/poison\|poison]]
 - [[Obstkiste/202506230928\|202506230928]]
-- [[Obstkiste/About After Type\|About After Type]]
 - [[Obstkiste/critical mass\|critical mass]]
-- [[Periodic/templates/dg blog template\|dg blog template]]
 - [[Obstkiste/ambiguity\|ambiguity]]
 - [[Obstkiste/coherence\|coherence]]
 - [[Obstkiste/density\|density]]
 - [[Obstkiste/Eventually\|Eventually]]
 - [[Obstkiste/art is a battery\|art is a battery]]
-- [[Obstkiste/container\|container]]
 - [[Obstkiste/202410011559\|202410011559]]
 - [[Obstkiste/2025-07-03-1056\|2025-07-03-1056]]
 - [[Obstkiste/custom type for business\|custom type for business]]

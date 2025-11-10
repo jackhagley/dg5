@@ -5,3 +5,6 @@
 
 
 the best kind of font hinting is none at all
+
+each size should be drawn by hand if you want the best results
+

@@ -2,7 +2,14 @@
 {"dg-publish":true,"permalink":"/obstkiste/container/"}
 ---
 
+A container is something that can be shared with someone else. It occupies both the flattened concept of 'content' in an online setting but also physical items such as books, CDs. A pdf is a container, a website is a container. A word is a container.
 
+A container has boundaries by definition, it is defined by them. It is defined by the things that fit inside them, and the things that do not fit inside them. If there was a way to fit something inside a container that did not belong, it would transform the container into a new thing. For example, a movie with sound cannot be played within the pages of a book. If it were possible, you would have invented something similar to a book, but not quite a book. 
+
+A container is therefore a container. The concept of a container is itself a container.
+
+
+---
 
 
 #Q :: What is the method for discovering containers?
@@ -30,7 +37,7 @@ and [[Obstkiste/logo\|logo]]s doubly so
 
 Some thoughts need to be winnowed to fit words. Some thoughts can never be anything other than thoughts
 
-
+---
 
 The true, eternal tau cannot be spoken
 but parts of it can be shown

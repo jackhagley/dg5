@@ -11,6 +11,7 @@
 - [[Obstkiste/202503201051\|202503201051]]
 - [[Obstkiste/202506230928\|202506230928]]
 - [[Obstkiste/About After Type\|About After Type]]
+- [[Obstkiste/After Type 2\|After Type 2]]
 - [[Obstkiste/Eventually\|Eventually]]
 - [[Obstkiste/ambiguity\|ambiguity]]
 - [[Obstkiste/art is a battery\|art is a battery]]
@@ -19,6 +20,7 @@
 - [[Obstkiste/critical mass\|critical mass]]
 - [[Obstkiste/custom type for business\|custom type for business]]
 - [[Obstkiste/density\|density]]
+- [[Obstkiste/energy\|energy]]
 - [[Obstkiste/poison\|poison]]
 - [[Obstkiste/procrastination\|procrastination]]
 - [[Obstkiste/published notes\|published notes]]
@@ -26,7 +28,6 @@
 - [[Obstkiste/religion of branding\|religion of branding]]
 - [[Obstkiste/strength as weakness\|strength as weakness]]
 - [[Obstkiste/the mortal hand\|the mortal hand]]
-- [[Obstkiste/After Type 2\|After Type 2]]
-- [[Periodic/templates/dg blog template\|dg blog template]]
+- [[Obstkiste/font hinting in pixel fonts\|font hinting in pixel fonts]]
 
 { .block-language-dataview}
