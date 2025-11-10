@@ -3,6 +3,6 @@
 ---
 
 
-I wanted to have a way to get things out into the world even if nobody will ever read any of this.
+I wanted to have a way to get things out into the world even if nobody will ever read any of this. I am only really writing for myself. It's a bad idea to try and explain or apologise for anything. The reasons for doing these things should be obvious. If there is no outlet for [[Obstkiste/energy\|energy]] then one becomes stifled, stulted, stunted. 
 I have always been interested in reading and since 2023 I have been writing daily.
 I am an [audio](https://supermerger.bandcamp.com/) visual artist with [supermerger](https://supermerger.net/) and keep an old school [tumblr](https://sxpxrmxrgxr.tumblr.com/)
