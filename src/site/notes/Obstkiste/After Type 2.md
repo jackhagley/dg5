@@ -8,7 +8,6 @@
 This is the blog/digital garden of [Jack Hagley](jackhagley.com)
 
 recently published:
-- [[Obstkiste/After Type 2\|After Type 2]]
 - [[Obstkiste/poison\|poison]]
 - [[Obstkiste/202506230928\|202506230928]]
 - [[Obstkiste/About After Type\|About After Type]]
@@ -36,8 +35,6 @@ recently published:
 - [[Obstkiste/the mortal hand\|the mortal hand]]
 
 { .block-language-dataview}
-/pub
-
 
 
 
